@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/maximum-average-subarray-i/
+// Difficulty : Easy - 2 [contains -ve elements in array]
 #include <bits/stdc++.h>
 using namespace std;
 

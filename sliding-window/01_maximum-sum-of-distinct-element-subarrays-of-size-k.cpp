@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/
+// Difficulty : Medium - 2 [Maintain a window of distinct elements]
 #include <bits/stdc++.h>
 using namespace std;
 
